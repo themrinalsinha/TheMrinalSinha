@@ -5,4 +5,4 @@
 - Working as a Tech Lead @Advarisk -->
 
 <h3 align="center">👋 Howdy! I'm Mrinal.<h3>
-<p align="center">Learning new things everyday and I ❤️ to build new things.</p>
+<p align="center">Learning new things everyday and applying them on building new things.</p>
